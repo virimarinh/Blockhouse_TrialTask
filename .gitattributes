@@ -1,0 +1,6 @@
+# Handle line endings consistently
+
+* text=auto
+
+# Denote all files in env/ folder as binary (ignore them)
+env/* binary
